@@ -14,7 +14,7 @@ package Services;
 import EntidadEjercicio9.matematica;
 
 public class matematicaService {
-    
+    int numero;
     matematica num=new matematica();
     
     public void crearObjeto(){
